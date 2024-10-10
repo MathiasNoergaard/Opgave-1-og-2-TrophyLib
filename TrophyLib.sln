@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrophyLib", "TrophyLib\TrophyLib.csproj", "{1309E046-7643-4786-B512-F4C6F3D8BCBB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrophyLibTests", "TrophyLibTests\TrophyLibTests.csproj", "{31EA32DA-335F-4BA5-BD0E-CE507058C153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1309E046-7643-4786-B512-F4C6F3D8BCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1309E046-7643-4786-B512-F4C6F3D8BCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1309E046-7643-4786-B512-F4C6F3D8BCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1309E046-7643-4786-B512-F4C6F3D8BCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EA32DA-335F-4BA5-BD0E-CE507058C153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EA32DA-335F-4BA5-BD0E-CE507058C153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EA32DA-335F-4BA5-BD0E-CE507058C153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EA32DA-335F-4BA5-BD0E-CE507058C153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D8C771-565F-44FB-8B59-F6BB9332D77A}
+	EndGlobalSection
+EndGlobal
